@@ -1,0 +1,2 @@
+"Está é uma nova linha na branch feature.">>example.txt
+git commit -am "Adiciona nova liha na branch feature
